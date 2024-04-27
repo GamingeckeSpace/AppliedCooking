@@ -1,5 +1,5 @@
 {
-  "itemGroup.appliedcooking": "Applied Kochen",
+  "itemGroup.appliedcooking": "Applied Cooking",
   "block.appliedcooking.kitchen_station": "ME Küchenstation",
   "tooltip.appliedcooking:kitchen_station.description": "Stationsknoten, der sich mit Applied Energistics 2 Netzwerken verbindet",
   "config.jade.plugin_appliedcooking.kitchen_station": "ME Küchenstation",
